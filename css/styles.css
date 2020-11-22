@@ -1,0 +1,23 @@
+ul > li{
+	text-align:center;
+	border: 1px solid;
+	margin-bottom:-1px;
+	background-color:green;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: red;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: black;
+  background-color: transparent;
+}
+
+.content{
+	height:1000px;
+	background-color: #add8e6;
+	color: black;
+	margin: 15px	
+}
